@@ -48,7 +48,7 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/WW3qVz8.jpg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
